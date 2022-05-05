@@ -1,1 +1,0 @@
-web: gunicorn crypto_site.wsgi --log-file -
